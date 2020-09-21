@@ -1,0 +1,25 @@
+{
+  "name": "my_discord_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord-youtube-api": "^0.1.0",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.2.7",
+    "node-fetch": "^2.6.1",
+    "opusscript": "^0.0.7",
+    "ytdl-core": "^3.2.2",
+    "ytdl-core-discord": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
